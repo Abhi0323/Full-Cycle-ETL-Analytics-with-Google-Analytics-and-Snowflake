@@ -1,7 +1,6 @@
 # Full-Cycle-ETL-Analytics-with-Google-Analytics-and-Snowflake
-             [snowproj](https://github.com/Abhi0323/Full-Cycle-ETL-Analytics-with-Google-Analytics-and-Snowflake/assets/112967999/ce257a99-3349-46b0-87e8-b64f6a33559e)
 
-
+![snowproj](https://github.com/Abhi0323/Full-Cycle-ETL-Analytics-with-Google-Analytics-and-Snowflake/assets/112967999/71137acd-578f-45c9-8229-1e2de3b04ad2)
 
 **Project Overview**
 
