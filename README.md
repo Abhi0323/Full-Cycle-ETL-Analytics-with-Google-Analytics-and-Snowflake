@@ -19,9 +19,7 @@ Data Extraction
 Data Transformation and Loading
 Data Analysis and Visualization
 Insights and Implications
-Project Setup
-Usage
-Acknowledgments
+
 
 **Introduction**
 
@@ -34,3 +32,28 @@ Snowflake: For data warehousing, ensuring data integrity and accessibility.
 Python: For scripting the ETL process and performing data analysis.
 Pandas & Numpy: For data manipulation and computations.
 Seaborn & Matplotlib: For crafting insightful data visualizations.
+
+**Data Extraction**
+
+Here, I connected to Google Analytics to get data about who's visiting my portfolio website. I used an API, which is a way for programs to communicate, to fetch details like visitor count, where they're coming from, and what device they're using.
+
+**Data Transformation and Loading**
+
+Next, I cleaned the data, which means I made sure it was neat and ready to be analyzed. After that, I uploaded this clean data into a Snowflake database, a place where you can store and organize large amounts of data very well.
+
+![snowproj](https://github.com/Abhi0323/Full-Cycle-ETL-Analytics-with-Google-Analytics-and-Snowflake/assets/112967999/736534d5-871b-4ae5-bb34-29d428753d01)
+
+**Data Analysis and Visualization**
+
+With the data in Snowflake, I started analyzing it to find interesting patterns and created visual charts to show these patterns clearly. These charts help understand things like which countries most visitors come from or what times are the busiest.
+
+<img width="1460" alt="Snowflake Dashboard" src="https://github.com/Abhi0323/Full-Cycle-ETL-Analytics-with-Google-Analytics-and-Snowflake/assets/112967999/7b1e1cbd-3beb-4730-b9ef-06de4a39c8c0">
+
+
+**Insights and Implications**
+
+The analysis gave me useful insights. For example, I learned that most people visit my site using their phones, so I should make sure my site works well on mobile.
+
+**Conclusion**
+
+This project showcases my ability to handle the full lifecycle of data, from collection to insights. It's a testament to using data in practical and impactful ways.
