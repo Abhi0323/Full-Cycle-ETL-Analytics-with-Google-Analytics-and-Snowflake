@@ -58,3 +58,6 @@ In this project, my passion for innovation comes to life, blending the art of st
 With Python as my guide, I unearthed patterns and stories within the data, crafting visualizations that offer more than numbers—they provide insights and direction. This project goes beyond technical skill, embodying a philosophy that sees data as a canvas, ready to be explored and understood. It's a showcase of not only what I can do with data but how I think about it—always with an eye toward the next innovative solution.
 
 As you peruse this project, consider it an invitation to view data through a new lens. It stands as proof that when one combines analytical expertise with a drive to innovate, every dataset holds a story waiting to be told, every analysis a step towards a future where data informs every decision.
+
+<img width="1456" alt="Screenshot 2024-02-06 at 8 56 17 AM" src="https://github.com/Abhi0323/Full-Cycle-ETL-Analytics-with-Google-Analytics-and-Snowflake/assets/112967999/61f02398-dc33-4672-a200-60ef60fc77d7">
+
