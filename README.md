@@ -38,6 +38,9 @@ This project was born out of the desire to merge the technical world of data ana
 
 Here, I connected to Google Analytics to get data about who's visiting my portfolio website. I used an API, which is a way for programs to communicate, to fetch details like visitor count, where they're coming from, and what device they're using.
 
+<img width="1470" alt="portfolio_2" src="https://github.com/Abhi0323/Full-Cycle-ETL-Analytics-with-Google-Analytics-and-Snowflake/assets/112967999/51d12155-4db5-4aaa-866e-f1dcde492d91">
+
+
 ## Data Transformation and Loading
 
 Next, I cleaned the data, which means I made sure it was neat and ready to be analyzed. After that, I uploaded this clean data into a Snowflake database, a place where you can store and organize large amounts of data very well.
