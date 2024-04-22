@@ -15,12 +15,12 @@ Welcome to my project repository, where data meets innovation. This isn't just a
 
 ## Table of Contents
 
-# 1. Introduction
-# 2. Technologies Used
-# 3. Data Extraction
-# 4. Data Transformation and Loading
-# 5. Data Analysis and Visualization
-# 6. Insights and Implications
+## 1. Introduction
+## 2. Technologies Used
+## 3. Data Extraction
+## 4. Data Transformation and Loading
+## 5. Data Analysis and Visualization
+## 6. Insights and Implications
 
 
 ## Introduction
