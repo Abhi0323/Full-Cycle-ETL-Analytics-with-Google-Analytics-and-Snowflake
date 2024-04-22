@@ -5,6 +5,7 @@
 ## Project Overview
 
 Welcome to my project repository, where data meets innovation. This isn't just a portfolio website traffic analysis; it's a journey through the modern data landscape, leveraging the prowess of Google Analytics and the robustness of Snowflake to derive actionable insights. As a data science professional, I believe in going beyond the norm. This project demonstrates my proactive approach to not only showcase my skills but also to keep track of how my portfolio resonates with audiences and recruiters alike.
+Detailed blog post about this project available at: https://medium.com/@abhishekgoud1212/how-i-transformed-my-portfolio-website-into-a-data-driven-masterpiece-5979c41b9fb4
 
 ## What Sets This Project Apart
 
